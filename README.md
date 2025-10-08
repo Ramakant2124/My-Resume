@@ -7,5 +7,10 @@ This is basic Resume created using HTML and CSS.
 <img width="1183" height="810" alt="image" src="https://github.com/user-attachments/assets/8885c3ec-1fba-4d68-842d-2192e580a569" />
 
 
-Thank You! 
+
+
+
+
+Thank You!
+
 **Ramakant Chaudhari**
